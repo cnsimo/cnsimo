@@ -1,9 +1,9 @@
 <p  align="center">
   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=cnsimo.cnsimo" alt="visitor count"/></br> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/?username=cnsimo&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br> -->
-  <img src="https://raw.githubusercontent.com/cnsimo/cnsimo/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/cnsimo/cnsimo/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/cnsimo/cnsimo/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  <img src="https://raw.githubusercontent.com/cnsimo/cnsimo/main/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/cnsimo/cnsimo/main/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/cnsimo/cnsimo/main/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
 ---
 
