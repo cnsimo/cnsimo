@@ -9,6 +9,11 @@
 
 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [regsvr32 bypass windows defender 新思路](https://scriptboy.cn/p/using-scrobj-without-regsvr32-bypass-defender/)
+- [gophish+smtp2go 发信平台搭建](https://scriptboy.cn/p/smtp2go_and_gophish/)
+- [要点 4：C 的文件操作](https://scriptboy.cn/p/c-file-operation/)
+- [exe 调用 dll 的方式总结](https://scriptboy.cn/p/exe-call-dll/)
+- [在不影响程序使用的情况下添加 shellcode](https://scriptboy.cn/p/backdooring-portable-executables-pe-with-shellcode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
