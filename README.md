@@ -1,5 +1,4 @@
 <p  align="center">
-  <a href="https://raw.githubusercontent.com/cnsimo/cnsimo/master/resources/mpho.mp3">How to pronounce my name!</a></br>
   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=cnsimo.cnsimo" alt="visitor count"/></br> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/?username=cnsimo&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br> -->
   <img src="https://raw.githubusercontent.com/cnsimo/cnsimo/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
