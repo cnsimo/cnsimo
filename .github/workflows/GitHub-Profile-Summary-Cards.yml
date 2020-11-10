@@ -1,0 +1,21 @@
+- name: GitHub-Profile-Summary-Cards
+  
+on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+
+    steps:
+      # You may pin to the exact commit or the version.
+      # uses: vn7n24fzkq/github-profile-summary-cards@014cfbe8de19ef2fbcb5bda6b7b05eaae045ee3c
+      uses: vn7n24fzkq/github-profile-summary-cards@v0.2.6
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        # GitHub username
+        USERNAME: ${{ github.repository_owner }}
